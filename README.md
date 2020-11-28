@@ -1,7 +1,7 @@
 Welcome to ArtDeCo!
 
 The ArtDeCo is short for 'Artemia Detection and Counting' dataset. Artemia is a genus of aquatic crustaceans used as a live diet for fish. 
-This dataset is mainly developed for creating effective and efficient methods for processing high-throughput images of Artemia obtained by microscope. 
+This dataset is mainly developed for creating effective and efficient methods for processing high-throughput images of Artemia obtained by microscopes. 
 
 This is a challenging task because of the following reasons:
 (1) The objects sometimes have a high degree of adjacency.
