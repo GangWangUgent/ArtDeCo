@@ -1,3 +1,8 @@
+In this folder, you can find the source code of the proposed Marker-CNN that might be published soon. This method combines a marker proposal network with a classifier. 
+The marker proposal network is used to indicate target candidates, while the classifier further categorizes the candidates into different classes.
+Based on the experimental validation, the Marker-CNN shows advantages in separating adjacent objects over the competing methods.
+
+
 (1)
 The code of the Marker-CNN method (including the weight file) can found through:
 https://www.dropbox.com/s/r0tl8crrmrf7l0n/Marker_CNN.zip?dl=0
