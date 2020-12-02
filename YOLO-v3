@@ -1,3 +1,7 @@
 The code of the YOLO-v3 method for Artemia detection (including the weight file) can be downloaded through:
-https://
-(In revision. Will be ready by November 2, 2020)
+
+https://www.dropbox.com/s/cm9yia18tym4tuf/YOLOv3_tf.zip?dl=0
+
+The software was developed based on Tensorflow.
+
+Please feel free to contact g_wang@outlook.com for further information.
